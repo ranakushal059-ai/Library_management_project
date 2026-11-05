@@ -20,7 +20,7 @@ This project demonstrates the implementation of a Library Management System usin
 ## Project Structure
 
 ### 1. Database Setup
-![Uploading Screenshot 2026-11-06 001549.png…]()
+https://github.com/ranakushal059-ai/Library_management_project/blob/main/Screenshot%202026-11-06%20001549.png
 
 
 - **Database Creation**: Created a database named `library_db`.
